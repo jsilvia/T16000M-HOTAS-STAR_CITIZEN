@@ -1,0 +1,2 @@
+# T16000M-HOTAS-STAR_CITIZEN
+T16000M-HOTAS mappings for Star Citizen
