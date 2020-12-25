@@ -9,6 +9,7 @@ Features in this version:
 * Mining mode/Radar Mode, Quantum on middle stick
 * Includes emote keyboard mappings - (best to read the XML, it's not hard)
 * Push-To-Talk mapped to mouse button-4 and to throttle red-button
+* Keyboard F8 is mapped to the helmet on/off toggle (it's slow but can save your life!)
 
 For many players this can be a good baseline - start here and make your own setup.
 
